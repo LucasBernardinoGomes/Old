@@ -1,2 +1,2 @@
 # Old
-Códigos ou projetos antigos
+Códigos ou projetos pessoais antigos desenvolvidos.
